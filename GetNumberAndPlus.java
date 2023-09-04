@@ -1,4 +1,4 @@
-public class Hello {
+public class GetNumberAndPlus {
     public static void main(String[] args) {
         String birthday = "3월 4일";
         String name = "이지혁";
